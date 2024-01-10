@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Internship Project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my Internship Project repository! This repository showcases various React.js applications that I developed during my three-month internship at The Diamond Port. As a React.js developer, I had the opportunity to work on diverse projects to enhance my skills and contribute to real-world applications.
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+### Calculator
 
-### `npm start`
+- **Duration:** 2 Days
+- **Description:** A simple calculator application built using React.js.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Axios Api
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Duration:** 1 Week
+- **Description:** Integration of Axios for handling API requests and responses.
 
-### `npm test`
+### Redux Toolkit
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Duration:** 1 Week
+- **Description:** Implementation of Redux Toolkit for state management in React applications.
 
-### `npm run build`
+### Dynamic Form
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Duration:** 3 Days
+- **Description:** Creation of a dynamic form with customizable fields.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Middleware-Api
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Duration:** 2 Days
+- **Description:** Implementation of middleware in React.js for handling API calls.
 
-### `npm run eject`
+### Simple Calculator
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Duration:** 1 Week
+- **Description:** A basic calculator application with additional features.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## About the Internship
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I commenced my internship as a React.js developer at The Diamond Port on November 22, 2023. Over the course of three months, I gained valuable experience and enhanced my proficiency in React.js. The internship provided me with the opportunity to contribute to real-world projects, collaborate with a skilled team, and further develop my problem-solving skills.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Feel free to explore the individual project directories for detailed documentation and code implementation.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Designed and Developed by Ayush Varma**
+Copyright © 2024 AV, AV
